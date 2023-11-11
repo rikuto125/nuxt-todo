@@ -1,0 +1,3 @@
+in と of の違い
+
+constとfunctionの違い
